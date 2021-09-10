@@ -1,4 +1,4 @@
-### Here is what I'm looking on 👋
+### Here is what I'm working on 👋
 
 
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Programming Languages 
+## Programming Languages :high_brightness:
 ****
