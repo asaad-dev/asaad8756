@@ -8,7 +8,7 @@
 <ul>
   <li>React</li>
   <li>React Native</li>
-  <li>Node and Express?js</li>
+  <li>Node and Express.js</li>
 </ul>
 
 ## Languages :high_brightness:
