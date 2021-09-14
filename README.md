@@ -5,30 +5,14 @@
 </p>
 -->
 ### Here is what I'm working on 👋
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Languages :high_brightness:
-
-
-## Tools
-
-<h1 align="center">Hello World!</h1>
-
-<p>My name is Kevin, and here are a few things I'm working on:</p>
-
 <ul>
   <li>Happy Coding</li>
   <li>Software Product Sprint</li>
   <li>Google Maps</li>
 </ul>
 
-<hr>
+## Languages :high_brightness:
 
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
+
+## Tools
+
