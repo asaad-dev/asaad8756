@@ -6,9 +6,9 @@
 -->
 ### Here is what I'm working on 👋
 <ul>
-  <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
+  <li>React</li>
+  <li>React Native</li>
+  <li>Node and Express?js</li>
 </ul>
 
 ## Languages :high_brightness:
