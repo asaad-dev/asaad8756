@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asaad8756&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad8756&langs_count=8&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad8756&langs_count=8&layout=compact" />
 </a>
 
 [](url)
