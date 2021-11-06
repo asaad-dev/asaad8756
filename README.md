@@ -22,14 +22,12 @@
                                                                                       
  [](url) 
                                                                                                                      
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="" src="https://github-readme-stats.vercel.app/api?username=asaad8756&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asaad8756&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad8756&langs_count=8&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad8756&langs_count=8" />
   </a>
-</div>
 
 [](url)
 <!--
