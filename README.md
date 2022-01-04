@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Asaad </h1>
 
 <p align="center">A possionate learner who's willing to learn and work across different technologies. I love to explore new technologies.</p>
-                 <h2 align="center">Tech Stack :rocket: </h2>
+<h2 align="center">Tech Stack :rocket: </h2>
      <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
      <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                                      <img align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
      <img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -21,14 +21,14 @@
      <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
                                                                                       
  [](url) 
-  
-  <a href="https://github.com/anuraghazra/convoychat">
+  <p align="center">
+  <a align="center" href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad8756&langs_count=8" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=asaad8756&show_icons=true" />
   </a>
-  
+  </p>
 
 
 
