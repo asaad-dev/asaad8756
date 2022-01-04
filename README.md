@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, 👋 I'm Asaad </h1>
+<h1 align="center">Hi there 👋, I'm Asaad </h1>
 
-<p align="center">A possionate learner who's willing to learn and work across different technologies. I love to explore new technologies and leverage them to solve real-life problems :bulb:. I'm currently into Wev Development</p>
-                 <h2 align="center">Technology Stack :rocket: </h2>
+<p align="center">A possionate learner who's willing to learn and work across different technologies. I love to explore new technologies.</p>
+                 <h2 align="center">Tech Stack :rocket: </h2>
      <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
      <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                                      <img align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
      <img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
